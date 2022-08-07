@@ -25,7 +25,7 @@ Restore power to sda
 
 ```
 $ sudo poweronsda
-# After this, mount and something you want.
+# After this, mount or something you want.
 ```
 
 Power off sda when system boot up.
