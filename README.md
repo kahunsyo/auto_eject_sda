@@ -27,7 +27,7 @@ Power off sda
 $ sudo ejectsda
 ```
 
-Restore power to **all SCSi HDDs**
+Restore power to **all SCSI HDDs**
 
 ```
 $ sudo poweronhdd
