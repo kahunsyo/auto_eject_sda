@@ -24,7 +24,7 @@ $ sudo ejectsda
 Restore power to sda
 
 ```
-$ sudo poweronsda
+$ sudo poweronhdd
 # After this, mount or something you want.
 ```
 
