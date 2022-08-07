@@ -24,7 +24,7 @@ $ sudo poweroffsda
 Restore power to sda
 
 ```
-$ sudo powersda
+$ sudo poweronsda
 # After this, mount and something you want.
 ```
 
