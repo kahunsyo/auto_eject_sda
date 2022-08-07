@@ -4,7 +4,7 @@ After=udev.service
 
 [Service]
 Type=oneshot
-ExecStart=poweroffsda
+ExecStart=ejectsda
 
 [Install]
 WantedBy=multi-user.target

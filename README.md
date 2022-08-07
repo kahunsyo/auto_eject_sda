@@ -18,7 +18,7 @@ Power off sda
 
 ```
 # Before run poweroffsda, umount filesystems.
-$ sudo poweroffsda
+$ sudo ejectsda
 ```
 
 Restore power to sda
