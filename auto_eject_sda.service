@@ -1,0 +1,10 @@
+[Unit]
+Description=Auto Eject sda
+After=udev.service
+
+[Service]
+Type=oneshot
+ExecStart=poweroffsda
+
+[Install]
+WantedBy=multi-user.target

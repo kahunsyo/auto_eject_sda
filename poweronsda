@@ -1,0 +1,2 @@
+#! /bin/bash
+echo '- - -' > tee /sys/class/scsi_host/host0/scan
